@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L0r1a\\Desktop\\Training\\Week2\\OpenCV\\OpenCV_THRESHOLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{361ED1A7-B6A0-40FB-A963-1585EBA9859D}|OpenCV_THRESHOLD\\OpenCV_THRESHOLD.vcxproj|C:\\Users\\L0r1a\\Desktop\\Training\\Week2\\OpenCV\\OpenCV_THRESHOLD\\OpenCV_THRESHOLD\\Threshold.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{361ED1A7-B6A0-40FB-A963-1585EBA9859D}|OpenCV_THRESHOLD\\OpenCV_THRESHOLD.vcxproj|solutionrelative:OpenCV_THRESHOLD\\Threshold.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Threshold.cpp",
+              "DocumentMoniker": "C:\\Users\\L0r1a\\Desktop\\Training\\Week2\\OpenCV\\OpenCV_THRESHOLD\\OpenCV_THRESHOLD\\Threshold.cpp",
+              "RelativeDocumentMoniker": "OpenCV_THRESHOLD\\Threshold.cpp",
+              "ToolTip": "C:\\Users\\L0r1a\\Desktop\\Training\\Week2\\OpenCV\\OpenCV_THRESHOLD\\OpenCV_THRESHOLD\\Threshold.cpp",
+              "RelativeToolTip": "OpenCV_THRESHOLD\\Threshold.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T07:04:53.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
