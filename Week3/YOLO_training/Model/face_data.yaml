@@ -1,0 +1,6 @@
+train: .\train
+val: .\val
+
+nc: 4
+
+names: ["Eye","Face","Mouth","Nose"]
